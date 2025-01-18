@@ -32,25 +32,25 @@
   </default>
   <asset>
     <material name="metal" rgba=".3 .3 .3 1"/>
-    <mesh name="Z-BOT2_MASTER-BODY-SKELETON"  file="Z-BOT2_MASTER-BODY-SKELETON.stl"/>
-    <mesh name="Z-BOT2-MASTER-SHOULDER2" file="Z-BOT2-MASTER-SHOULDER2.stl"/>
-    <mesh name="Z-BOT2-MASTER-SHOULDER2_2" file="Z-BOT2-MASTER-SHOULDER2_2.stl"/>
-    <mesh name="U-HIP-L" file="U-HIP-L.stl"/>
-    <mesh name="U-HIP-R" file="U-HIP-R.stl"/>
-    <mesh name="3215_1Flange" file="3215_1Flange.stl"/>
-    <mesh name="3215_1Flange_2" file="3215_1Flange_2.stl"/>
-    <mesh name="3215_BothFlange" file="3215_BothFlange.stl"/>
-    <mesh name="3215_BothFlange_2" file="3215_BothFlange_2.stl"/>
-    <mesh name="3215_BothFlange_3" file="3215_BothFlange_3.stl"/>
-    <mesh name="3215_BothFlange_4" file="3215_BothFlange_4.stl"/>
-    <mesh name="R-ARM-MIRROR-1" file="R-ARM-MIRROR-1.stl"/>
-    <mesh name="L-ARM-MIRROR_1" file="L-ARM-MIRROR_1.stl"/>
-    <mesh name="3215_BothFlange_5" file="3215_BothFlange_5.stl"/>
-    <mesh name="3215_BothFlange_6" file="3215_BothFlange_6.stl"/>
-    <mesh name="FINGER_1" file="FINGER_1.stl"/>
-    <mesh name="FINGER_1_2" file="FINGER_1_2.stl"/>
-    <mesh name="FOOT" file="FOOT.stl"/>
-    <mesh name="FOOT_2" file="FOOT_2.stl"/>
+    <mesh name="Z-BOT2_MASTER-BODY-SKELETON"  file="assets/Z-BOT2_MASTER-BODY-SKELETON.stl"/>
+    <mesh name="Z-BOT2-MASTER-SHOULDER2" file="assets/Z-BOT2-MASTER-SHOULDER2.stl"/>
+    <mesh name="Z-BOT2-MASTER-SHOULDER2_2" file="assets/Z-BOT2-MASTER-SHOULDER2_2.stl"/>
+    <mesh name="U-HIP-L" file="assets/U-HIP-L.stl"/>
+    <mesh name="U-HIP-R" file="assets/U-HIP-R.stl"/>
+    <mesh name="3215_1Flange" file="assets/3215_1Flange.stl"/>
+    <mesh name="3215_1Flange_2" file="assets/3215_1Flange_2.stl"/>
+    <mesh name="3215_BothFlange" file="assets/3215_BothFlange.stl"/>
+    <mesh name="3215_BothFlange_2" file="assets/3215_BothFlange_2.stl"/>
+    <mesh name="3215_BothFlange_3" file="assets/3215_BothFlange_3.stl"/>
+    <mesh name="3215_BothFlange_4" file="assets/3215_BothFlange_4.stl"/>
+    <mesh name="R-ARM-MIRROR-1" file="assets/R-ARM-MIRROR-1.stl"/>
+    <mesh name="L-ARM-MIRROR_1" file="assets/L-ARM-MIRROR_1.stl"/>
+    <mesh name="3215_BothFlange_5" file="assets/3215_BothFlange_5.stl"/>
+    <mesh name="3215_BothFlange_6" file="assets/3215_BothFlange_6.stl"/>
+    <mesh name="FINGER_1" file="assets/FINGER_1.stl"/>
+    <mesh name="FINGER_1_2" file="assets/FINGER_1_2.stl"/>
+    <mesh name="FOOT" file="assets/FOOT.stl"/>
+    <mesh name="FOOT_2" file="assets/FOOT_2.stl"/>
   </asset>
 
   <worldbody>
